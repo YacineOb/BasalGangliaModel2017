@@ -1,6 +1,6 @@
 # Basal Ganglia Computational Model 2017
 
-## 1_Modelisation of FSI, MSN and GPE neural network involved in beta-oscillations generation in Parkinson's Disease <a name="1_Modelisation of FSI, MSN and GPE neural network involved in beta-oscillations generation in Parkinson's Disease"></a>
+## 1_Modelisation of FSI, MSN and GPE neural network involved in beta-oscillations generation in Parkinson's Disease <a name="1_Modelisation"></a>
 
 ![](Quicktry.jpg)
 
