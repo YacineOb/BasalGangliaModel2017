@@ -3,4 +3,4 @@
 1_Modelisation of FSI, MSN and GPE neural network involved in beta-oscillations generation in Parkinson's Disease
 2_Modelisation of Striato-Thalamo neural network involved in beta-oscillations generation in Parkinson's Disease
 
-![alt tag](https://raw.githubusercontent.com/YacineOb/BasalGangliaModel2017/Quicktry.jpg)
+![alt text](/YacineOb/BasalGangliaModel2017/Quicktry.jpg?raw=true "Model_2017")
